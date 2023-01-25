@@ -27,7 +27,7 @@ Developers use pseudocode to plan out their real code, so there are no hard rule
 	<img src="images/stories.png" width=200%>
    
      **Answer:**
-      <br/><br/>
+      Change in Variables
       <br/><br/>
       <br/><br/>
       <br/><br/>
